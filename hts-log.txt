@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 28 Oct 2021 22:45:31 at http://kotlis.kwst.net/light/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://kotlis.kwst.net/light/index.html -O1 "C:\Users\zzhen\Desktop\My Site\p1" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:58:38	Error: 	"Failed Dependency" (424) at link kotlis.kwst.net/light/img/vimeo-play.png (from kotlis.kwst.net/light/css/plugins.css)
+22:58:38	Error: 	"Failed Dependency" (424) at link kotlis.kwst.net/light/img/video-play.png (from kotlis.kwst.net/light/css/plugins.css)
+22:58:38	Error: 	"Failed Dependency" (424) at link kotlis.kwst.net/light/img/youtube-play.png (from kotlis.kwst.net/light/css/plugins.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 13 minutes 16 seconds : 118 links scanned, 114 files written (24008039 bytes overall) [19739776 bytes received at 24798 bytes/sec], 6259151 bytes transferred using HTTP compression in 32 files, ratio 31%, 1.6 requests per connection
+(3 errors, 0 warnings, 0 messages)
