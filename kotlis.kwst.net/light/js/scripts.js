@@ -810,10 +810,10 @@
      });
      $('.chosen-select').selectbox();
      //   mailchimp------------------
-     $("#subscribe").ajaxChimp({
-         language: "eng",
-         url: "https://gmail.us1.list-manage.com/subscribe/post?u=1fe818378d5c129b210719d80&amp;id=a2792f681b"
-     });
+     
+     
+
+     
      $.ajaxChimp.translations.eng = {
          submit: "Submitting...",
          0: '<i class="fa fa-check"></i> We will be in touch soon!',
